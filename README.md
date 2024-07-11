@@ -43,12 +43,15 @@ The Flickr Image Search App is designed to fetch and display images from Flickr 
 
 - **SearchView**: Users can enter search terms to find scroll through images on Flickr.
   
-![Simulator Screenshot - iPhone 15 - 2024-07-11 at 08 41 23](https://github.com/michael-edlin/Flickr-App/assets/80922342/13e9612b-7288-42c5-9aac-67a77a413fce)
+<img src="https://github.com/michael-edlin/Flickr-App/assets/80922342/13e9612b-7288-42c5-9aac-67a77a413fce" width="300" height="600" />
 
 - **Detail View**: Shows detailed information about the selected image, including the image, title, description, author, and published date.
   
-![Simulator Screenshot - iPhone 15 - 2024-07-11 at 08 42 28](https://github.com/michael-edlin/Flickr-App/assets/80922342/cca729fc-ed29-4898-999f-5646f56c32f6)
+<img src="https://github.com/michael-edlin/Flickr-App/assets/80922342/cca729fc-ed29-4898-999f-5646f56c32f6" width="300" height="600" />
+
 
 - **Detail View**: Shows support for landscape view
-  
-![Simulator Screenshot - iPhone 15 - 2024-07-11 at 08 43 14](https://github.com/michael-edlin/Flickr-App/assets/80922342/2055d112-2572-48ff-95bd-54870312b83b)
+
+  <img src="https://github.com/michael-edlin/Flickr-App/assets/80922342/2055d112-2572-48ff-95bd-54870312b83b" width="600" height="300" />
+```
+
